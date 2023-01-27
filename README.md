@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Eurine
-- 👀 I’m interested in 🕸️
-- 🌱 I’m currently learning c++
+- 👀 I’m interested in webassembly 
+- 🌱 I’m currently learning rust
 - 📫 How to reach me dilshadplayingminecraft@outlook.com
 
 <!---
