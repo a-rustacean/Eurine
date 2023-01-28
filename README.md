@@ -10,10 +10,7 @@ I ❤️ full stack development!
 
 ## 𝗖𝘂𝗿𝗿𝗲𝗻𝘁𝗹𝘆 𝘄𝗼𝗿𝗸𝗶𝗻𝗴 𝗼𝗻
 
-[![bookmark.style](https://svg.bookmark.style/api?url=https://bookmark.style/&mode=light&style=horizontal)](https://bookmark.style)
-[![tech-stack.tools](https://svg.bookmark.style/api?url=https://tech-stack.tools/&mode=dark&style=horizontal)](https://tech-stack.tools)
-[![onetab.group](https://svg.bookmark.style/api?url=https://www.onetab.group&mode=light&style=horizontal)](https://onetab.group)
-[![vue-command-palette](https://svg.bookmark.style/api?url=https://github.com/xiaoluoboding/vue-command-palette&mode=dark&style=horizontal)](https://github.com/xiaoluoboding/vue-command-palette)
+[![basegl](https://svg.bookmark.style/api?url=https://github.com/Eurine/basegl&mode=dark&style=horizontal)](https://github.com/Eurine/basegl)
 
 ## 𝗠𝘆 𝗧𝗲𝗰𝗸 𝗦𝘁𝗮𝗰𝗸
 
@@ -21,13 +18,12 @@ I ❤️ full stack development!
 ![CSS3](https://img.shields.io/badge/-CSS3-%231572B6?style=flat-square&logo=css3)
 ![JavaScript](https://img.shields.io/badge/-JavaScript-%23F7DF1C?style=flat-square&logo=javascript&logoColor=000000&labelColor=%23F7DF1C&color=%23FFCE5A)
 ![TypeScript](https://img.shields.io/badge/-TypeScript-007ACC?style=flat-square&logo=typescript&logoColor=white)
-![Vue.js](https://img.shields.io/badge/-Vue.js-%232c3e50?style=flat-square&logo=vuedotjs)
-![Nuxt.js](https://img.shields.io/badge/-Nuxt.js-%23282C34?style=flat-square&logo=nuxtdotjs)
+![Rust](https://img.shields.io/badge/-Rust-%232c3e50?style=flat-square&logo=rust)
+![Wasm](https://img.shields.io/badge/-Wasm-%23282C34?style=flat-square&logo=webassembly)
+![Yew](https://img.shields.io/badge/-Yew-%23282C34?style=flat-square&logo=data:image/svg+xml;base64,PHN2ZyB3aWR0aD0iNzUiIGhlaWdodD0iODIiIHZpZXdCb3g9IjAgMCA3NSA4MiIgZmlsbD0ibm9uZSIgeG1sbnM9Imh0dHA6Ly93d3cudzMub3JnLzIwMDAvc3ZnIj4KPGNpcmNsZSBjeD0iMzgiIGN5PSI0MCIgcj0iMjUiIGZpbGw9IiNCM0UxQ0UiLz4KPHBhdGggZD0iTTM4LjIzNzMgNDEuMDMzOUwxNCAxNCIgc3Ryb2tlPSIjNDQ0NDQ0IiBzdHJva2Utd2lkdGg9IjYiIHN0cm9rZS1saW5lY2FwPSJyb3VuZCIvPgo8cGF0aCBkPSJNMzguMjM3MyA0MS4wMzM5TDYyLjQ3NDYgMTQiIHN0cm9rZT0iIzQ0NDQ0NCIgc3Ryb2tlLXdpZHRoPSI2IiBzdHJva2UtbGluZWNhcD0icm91bmQiLz4KPHBhdGggZD0iTTM4LjIzNzMgNDEuMDMzOUwzOC4yMzczIDY5IiBzdHJva2U9IiM0NDQ0NDQiIHN0cm9rZS13aWR0aD0iNiIgc3Ryb2tlLWxpbmVjYXA9InJvdW5kIi8+CjxjaXJjbGUgY3g9IjM4IiBjeT0iNDEiIHI9IjciIGZpbGw9IiMwMDlBNUIiIHN0cm9rZT0iIzQ0NDQ0NCIgc3Ryb2tlLXdpZHRoPSI0Ii8+Cjwvc3ZnPgo=)
 ![React](https://img.shields.io/badge/-React-%23282C34?style=flat-square&logo=react)
 
-![Less](https://img.shields.io/badge/-Less-%231d365d?style=flat-square&logo=less&logoColor=ffffff)
 ![Sass](https://img.shields.io/badge/-Sass-%23CC6699?style=flat-square&logo=sass&logoColor=ffffff)
-![Stylus](https://img.shields.io/badge/-Stylus-%23333333?style=flat-square&logo=stylus)
 ![TailwindCss](https://img.shields.io/badge/-TailwindCss-%231a202c?style=flat-square&logo=tailwind-css)
 ![Windicss](https://img.shields.io/badge/-WindiCss-%23000000?style=flat-square&logo=tailwind-css&&logoColor=48B0F1)
 
@@ -38,9 +34,8 @@ I ❤️ full stack development!
 ![Git](https://img.shields.io/badge/-Git-%23F05032?style=flat-square&logo=git&logoColor=%23ffffff)
 ![GitLab](https://img.shields.io/badge/-GitLab-FCA121?style=flat-square&logo=gitlab)
 ![VS Code](https://img.shields.io/badge/-VSCode-%23007ACC?style=flat-square&logo=visual-studio-code)
-![Netlify](https://img.shields.io/badge/-Netlify-%2300C7B7?style=flat-square&logo=netlify&logoColor=ffffff)
 ![Vercel](https://img.shields.io/badge/-Vercel-%23ffffff?style=flat-square&logo=vercel&logoColor=000000)
 
 ## Stats
 
-![xiaoluoboding's github stats](https://github-readme-stats.vercel.app/api?username=Eurine&show_icons=true&theme=dracula)
+![Dilshad's github stats](https://github-readme-stats.vercel.app/api?username=Eurine&show_icons=true&theme=dracula)
