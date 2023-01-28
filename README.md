@@ -11,6 +11,7 @@ I ❤️ full stack development!
 ## 𝗖𝘂𝗿𝗿𝗲𝗻𝘁𝗹𝘆 𝘄𝗼𝗿𝗸𝗶𝗻𝗴 𝗼𝗻
 
 [![basegl](https://svg.bookmark.style/api?url=https://github.com/Eurine/basegl&mode=dark&style=horizontal)](https://github.com/Eurine/basegl)
+[![indexeddb-driver](https://svg.bookmark.style/api?url=https://github.com/Eurine/indexeddb-driver&mode=light&style=horizontal)](https://github.com/Eurine/indexeddb-driver)
 
 ## 𝗠𝘆 𝗧𝗲𝗰𝗸 𝗦𝘁𝗮𝗰𝗸
 
