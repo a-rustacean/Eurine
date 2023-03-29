@@ -6,7 +6,7 @@
 
 I ❤️ full stack development!
 
-🖖 𝗷𝘀 𝗮𝗳𝗶𝗰𝗶𝗼𝗻𝗮𝗱𝗼 | 🔐 𝗪𝗲𝗯𝟯 𝗟𝗲𝗮𝗿𝗻𝗲𝗿 | ☕️ 𝗖𝗼𝗳𝗳𝗲𝗲 𝗹𝗼𝘃𝗲𝗿
+🦀 Rust aficionado
 
 ## 𝗖𝘂𝗿𝗿𝗲𝗻𝘁𝗹𝘆 𝘄𝗼𝗿𝗸𝗶𝗻𝗴 𝗼𝗻
 
