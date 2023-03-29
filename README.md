@@ -27,7 +27,7 @@ I ❤️ full stack development!
 ![ESlint](https://img.shields.io/badge/-ESLint-%234B32C3?style=flat-square&logo=eslint)
 ![Git](https://img.shields.io/badge/-Git-%23F05032?style=flat-square&logo=git&logoColor=%23ffffff)
 ![GitLab](https://img.shields.io/badge/-GitLab-FCA121?style=flat-square&logo=gitlab)
-![VS Code](https://img.shields.io/badge/NeoVim-%2357A143.svg?style=flat-square&logo=NeoVim)
+![NeoVim](https://img.shields.io/badge/NeoVim-%2357A143.svg?style=flat-square&logo=NeoVim&logo-color=ffffff)
 ![Vercel](https://img.shields.io/badge/-Vercel-%23ffffff?style=flat-square&logo=vercel&logoColor=000000)
 ![Node.js](https://img.shields.io/badge/-Nodejs-%2358bf28?style=flat-square&logo=node.js&logoColor=000000)
 ![Express](https://img.shields.io/badge/-Express-%23232622?style=flat-square&logo=express&logoColor=ffffff)
