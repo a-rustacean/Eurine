@@ -21,10 +21,6 @@ I ❤️ full stack development!
 ![TypeScript](https://img.shields.io/badge/-TypeScript-007ACC?style=flat-square&logo=typescript&logoColor=white)
 ![Rust](https://img.shields.io/badge/-Rust-%232c3e50?style=flat-square&logo=rust)
 ![Wasm](https://img.shields.io/badge/-Wasm-%23282C34?style=flat-square&logo=webassembly)
-![Yew](https://img.shields.io/badge/-Yew-%23282C34?style=flat-square&logo=data:image/svg+xml;base64,PHN2ZyB3aWR0aD0iNzUiIGhlaWdodD0iODIiIHZpZXdCb3g9IjAgMCA3NSA4MiIgZmlsbD0ibm9uZSIgeG1sbnM9Imh0dHA6Ly93d3cudzMub3JnLzIwMDAvc3ZnIj4KPGNpcmNsZSBjeD0iMzgiIGN5PSI0MCIgcj0iMjUiIGZpbGw9IiNCM0UxQ0UiLz4KPHBhdGggZD0iTTM4LjIzNzMgNDEuMDMzOUwxNCAxNCIgc3Ryb2tlPSIjNDQ0NDQ0IiBzdHJva2Utd2lkdGg9IjYiIHN0cm9rZS1saW5lY2FwPSJyb3VuZCIvPgo8cGF0aCBkPSJNMzguMjM3MyA0MS4wMzM5TDYyLjQ3NDYgMTQiIHN0cm9rZT0iIzQ0NDQ0NCIgc3Ryb2tlLXdpZHRoPSI2IiBzdHJva2UtbGluZWNhcD0icm91bmQiLz4KPHBhdGggZD0iTTM4LjIzNzMgNDEuMDMzOUwzOC4yMzczIDY5IiBzdHJva2U9IiM0NDQ0NDQiIHN0cm9rZS13aWR0aD0iNiIgc3Ryb2tlLWxpbmVjYXA9InJvdW5kIi8+CjxjaXJjbGUgY3g9IjM4IiBjeT0iNDEiIHI9IjciIGZpbGw9IiMwMDlBNUIiIHN0cm9rZT0iIzQ0NDQ0NCIgc3Ryb2tlLXdpZHRoPSI0Ii8+Cjwvc3ZnPgo=)
-![React](https://img.shields.io/badge/-React-%23282C34?style=flat-square&logo=react)
-
-![Sass](https://img.shields.io/badge/-Sass-%23CC6699?style=flat-square&logo=sass&logoColor=ffffff)
 ![TailwindCss](https://img.shields.io/badge/-TailwindCss-%231a202c?style=flat-square&logo=tailwind-css)
 ![Windicss](https://img.shields.io/badge/-WindiCss-%23000000?style=flat-square&logo=tailwind-css&&logoColor=48B0F1)
 
