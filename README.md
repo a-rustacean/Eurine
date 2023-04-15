@@ -34,4 +34,4 @@ I ❤️ full stack development!
 
 ## Stats
 
-![Dilshad's Github stats](https://github-readme-stats.vercel.app/api?username=Eurine&show_icons=true&theme=dracula)
+![Dilshad's Github stats](https://github-readme-stats.vercel.app/api?username=a-rustacean&show_icons=true&theme=dracula)
