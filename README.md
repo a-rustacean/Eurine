@@ -1,8 +1,7 @@
 # Hello, I'm Dilshad
 
 [![](https://img.shields.io/badge/-@DilshadIsHere-%231DA1F2?style=flat-square&logo=twitter&logoColor=ffffff)](https://twitter.com/DilshadIsHere)
-[![](https://img.shields.io/badge/-@Eurine-%23181717?style=flat-square&logo=github)](https://github.com/Eurine)
-[![](https://img.shields.io/website?color=0ab9e6&style=flat-square&up_message=Eurine&url=https%3A%2F%2Feurine.github.io/Eurine/)](https://eurine.github.io/Eurine/)
+[![](https://img.shields.io/badge/-@a-rustacean-%23181717?style=flat-square&logo=github)](https://github.com/a-rustacean)
 
 I ❤️ full stack development!
 
