@@ -10,7 +10,7 @@ I ❤️ low level development!
 ## 𝗖𝘂𝗿𝗿𝗲𝗻𝘁𝗹𝘆 𝘄𝗼𝗿𝗸𝗶𝗻𝗴 𝗼𝗻
 
 [![snake-game](https://svg.bookmark.style/api?url=https://github.com/a-rustacean/snake-game&mode=dark&style=horizontal)](https://github.com/a-rustacean/snake-game)
-[![wave-function-collapse](https://svg.bookmark.style/api?url=https://github.com/a-rustacean/wave-function-collapse&mode=light&style=horizontal)](https://github.com/a-rustacean/wave-function-collapse)
+[![zila](https://svg.bookmark.style/api?url=https://github.com/a-rustacean/zila&mode=light&style=horizontal)](https://github.com/a-rustacean/zila)
 
 ## 𝗠𝘆 𝗧𝗲𝗰𝗸 𝗦𝘁𝗮𝗰𝗸
 
