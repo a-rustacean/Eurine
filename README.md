@@ -34,3 +34,5 @@ I ❤️ low level development!
 ## Stats
 
 ![Dilshad's Github stats](https://github-readme-stats.vercel.app/api?username=a-rustacean&show_icons=true&theme=dracula)
+
+![Dilshad's most used languages](https://github-readme-stats.vercel.app/api/top-langs/?username=a-rustacean&theme=dracula)
