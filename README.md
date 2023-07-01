@@ -11,10 +11,10 @@ I ❤️ low level development!
 
 ## 𝗖𝘂𝗿𝗿𝗲𝗻𝘁𝗹𝘆 𝘄𝗼𝗿𝗸𝗶𝗻𝗴 𝗼𝗻
 
+[![free-icons](https://svg.bookmark.style/api?url=https://github.com/free-icons/free-icons&mode=light&style=horizontal)](https://github.com/free-icons/free-icons)
 [![html-template-scraper](https://svg.bookmark.style/api?url=https://github.com/a-rustacean/html-template-scraper&mode=dark&style=horizontal)](https://github.com/a-rustacean/html-template-scraper)
 [![font-icons-scraper](https://svg.bookmark.style/api?url=https://github.com/a-rustacean/font-icons-scraper&mode=light&style=horizontal)](https://github.com/a-rustacean/font-icons-scraper)
 [![handwritten-digit-recognition](https://svg.bookmark.style/api?url=https://github.com/a-rustacean/handwritten-digit-recognition&mode=dark&style=horizontal)](https://github.com/a-rustacean/handwritten-digit-recognition)
-[![zila](https://svg.bookmark.style/api?url=https://github.com/a-rustacean/zila&mode=light&style=horizontal)](https://github.com/a-rustacean/zila)
 
 ## 𝗠𝘆 𝗧𝗲𝗰𝗸 𝗦𝘁𝗮𝗰𝗸
 
