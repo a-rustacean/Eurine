@@ -3,7 +3,7 @@
 [![](https://img.shields.io/badge/-@DilshadIsHere-%231DA1F2?style=flat-square&logo=twitter&logoColor=ffffff)](https://twitter.com/DilshadIsHere)
 [![](https://img.shields.io/badge/-@a-rustacean-%23181717?style=flat-square&logo=github)](https://github.com/a-rustacean)
 
-I am a fullstack web developer from India 🇮🇳
+A full stack web developer from India 🇮🇳
 
 I ❤️ low level development!
 
@@ -13,7 +13,7 @@ I ❤️ low level development!
 
 [![free-icons](https://svg.bookmark.style/api?url=https://github.com/free-icons/free-icons&mode=light&style=horizontal)](https://github.com/free-icons/free-icons)
 [![html-template-scraper](https://svg.bookmark.style/api?url=https://github.com/a-rustacean/html-template-scraper&mode=dark&style=horizontal)](https://github.com/a-rustacean/html-template-scraper)
-[![font-icons-scraper](https://svg.bookmark.style/api?url=https://github.com/a-rustacean/font-icons-scraper&mode=light&style=horizontal)](https://github.com/a-rustacean/font-icons-scraper)
+[![meent-starter](https://svg.bookmark.style/api?url=https://github.com/a-rustacean/meent-starter&mode=light&style=horizontal)](https://github.com/a-rustacean/meent-starter)
 [![handwritten-digit-recognition](https://svg.bookmark.style/api?url=https://github.com/a-rustacean/handwritten-digit-recognition&mode=dark&style=horizontal)](https://github.com/a-rustacean/handwritten-digit-recognition)
 
 ## 𝗠𝘆 𝗧𝗲𝗰𝗸 𝗦𝘁𝗮𝗰𝗸
