@@ -13,7 +13,7 @@ I ❤️ low level development!
 
 [![free-icons](https://svg.bookmark.style/api?url=https://github.com/free-icons/free-icons&mode=light&style=horizontal)](https://github.com/free-icons/free-icons)
 [![html-template-scraper](https://svg.bookmark.style/api?url=https://github.com/a-rustacean/html-template-scraper&mode=dark&style=horizontal)](https://github.com/a-rustacean/html-template-scraper)
-[![meent-starter](https://svg.bookmark.style/api?url=https://github.com/a-rustacean/meent-starter&mode=light&style=horizontal)](https://github.com/a-rustacean/meent-starter)
+[![font-icons-scraper](https://svg.bookmark.style/api?url=https://github.com/a-rustacean/font-icons-scraper&mode=light&style=horizontal)](https://github.com/a-rustacean/font-icons-scraper)
 [![handwritten-digit-recognition](https://svg.bookmark.style/api?url=https://github.com/a-rustacean/handwritten-digit-recognition&mode=dark&style=horizontal)](https://github.com/a-rustacean/handwritten-digit-recognition)
 
 ## 𝗠𝘆 𝗧𝗲𝗰𝗸 𝗦𝘁𝗮𝗰𝗸
