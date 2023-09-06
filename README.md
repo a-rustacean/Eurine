@@ -7,6 +7,23 @@ A full stack web developer from India 🇮🇳
 
 🦀 Rust aficionado
 
+```rust
+use std::collections::HashMap;
+
+fn main() {
+    let stereotype = Stereotype::Introvert;
+    let loves = vec!["Rust", "Web", "Money", "Neovim"];
+    let passionate_about = Passion::Networking;
+    let experience = HashMap::from([
+        ("Rust", 1),
+        ("Javascript", 3),
+        ("React", 2),
+        ("Html", 3),
+        ("Css", 3)
+    ]);
+}
+```
+
 ## 𝗖𝘂𝗿𝗿𝗲𝗻𝘁𝗹𝘆 𝘄𝗼𝗿𝗸𝗶𝗻𝗴 𝗼𝗻
 
 [![free-icons](https://svg.bookmark.style/api?url=https://github.com/free-icons/free-icons&mode=light&style=horizontal)](https://github.com/free-icons/free-icons)
