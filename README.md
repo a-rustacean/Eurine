@@ -1,7 +1,6 @@
 # Hello, I'm Dilshad
 
-[![](https://img.shields.io/badge/-@DilshadIsHere-%231DA1F2?style=flat-square&logo=twitter&logoColor=ffffff)](https://twitter.com/DilshadIsHere)
-[![](https://img.shields.io/badge/-@a-rustacean-%23181717?style=flat-square&logo=github)](https://github.com/a-rustacean)
+[![](https://img.shields.io/badge/-@a%EF%BC%BFrustacean-%231DA1F2?style=flat-square&logo=twitter&logoColor=ffffff)](https://twitter.com/a_rustacean)
 
 A full stack web developer from India 🇮🇳
 
