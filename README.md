@@ -51,8 +51,4 @@ fn main() {
 
 ## Stats
 
-![Dilshad's Github stats](https://github-readme-stats.vercel.app/api?username=a-rustacean&show_icons=true&theme=dracula)
-
-![Dilshad's streak](https://github-readme-streak-stats.herokuapp.com?user=a-rustacean&theme=dracula)
-
-![Dilshad's most used languages](https://github-readme-stats.vercel.app/api/top-langs/?username=a-rustacean&theme=dracula)
+<a href="https://github.com/lowlighter/metrics"><img src="/github-metrics.svg" alt="Metrics" align="center" width="100%"></a>
