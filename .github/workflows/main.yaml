@@ -13,7 +13,6 @@ jobs:
 
           user: a-rustacean
           template: classic
-          base: header, activity, repositories, metadata
           base_indepth: yes
           config_display: large
           config_octicon: yes
