@@ -1,5 +1,6 @@
 # 👋 Hello, I'm Dilshad
 
+![](https://komarev.com/ghpvc/?username=a-rustacean)
 [![](https://img.shields.io/badge/-@a%EF%BC%BFrustacean-%231DA1F2?style=flat-square&logo=twitter&logoColor=ffffff)](https://twitter.com/a_rustacean)
 
 ```rust
@@ -31,3 +32,4 @@ Feel free to connect with me and explore the exciting possibilities of working t
 📊 Here are some of my GitHub statistics to showcase my contributions and activity. Check it out!
 
 <img src="/github-metrics.svg" alt="Metrics" align="center" width="100%">
+
