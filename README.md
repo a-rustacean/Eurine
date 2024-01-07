@@ -6,6 +6,7 @@
         <li>I am a teen (16 yo)</li>
         <li>I use my mouse with my left hand</li>
         <li>I am a lazy person</li>
+        <li>I am addicted to anime</li>
     </ul>
 </details>
 
