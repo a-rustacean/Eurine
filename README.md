@@ -1,15 +1,5 @@
 # 👋 Hello, I'm Dilshad
 
-<details>
-    <summary>Some facts about me</summary>
-    <ul>
-        <li>I am a teen (16 yo)</li>
-        <li>I use my mouse with my left hand</li>
-        <li>I am a lazy person</li>
-        <li>I am addicted to anime</li>
-    </ul>
-</details>
-
 ![Profile Views](https://komarev.com/ghpvc/?username=a-rustacean)
 [![Twitter: @a_rustacean](https://img.shields.io/badge/-@a%EF%BC%BFrustacean-%231DA1F2?style=flat-square&logo=twitter&logoColor=ffffff)](https://twitter.com/a_rustacean)
 
