@@ -69,3 +69,4 @@ jobs:
           plugin_stackoverflow_user: 17675333
           repositories_forks: yes
           repositories_affiliations: contributor
+          plugin_traffic: yes
