@@ -27,6 +27,11 @@ Let's connect and explore potential collaborations to turn innovative ideas into
 
 [![GitHub followers](https://img.shields.io/github/followers/a-rustacean?label=Follow&style=social)](https://github.com/a-rustacean)
 
+
+### Top contributions
+
+[![Dilshad's Top Contributions](https://github-contributor-stats.vercel.app/api?username=a-rustacean&limit=8&theme=dark&combine_all_yearly_contributions=true)](https://github-contributor-stats.vercel.app/api?username=a-rustacean&limit=20&theme=dark&combine_all_yearly_contributions=true)
+
 ## Stats
 
 📊 Here are some GitHub statistics showcasing my contributions and activity. Take a look!
