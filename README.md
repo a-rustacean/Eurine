@@ -1,22 +1,9 @@
 # 👋 Hello, I'm Dilshad
 
 ![Profile Views](https://komarev.com/ghpvc/?username=a-rustacean)
-[![Twitter: @a_rustacean](https://img.shields.io/badge/-@a%EF%BC%BFrustacean-%231DA1F2?style=flat-square&logo=twitter&logoColor=ffffff)](https://twitter.com/a_rustacean)
+<!-- [![Twitter: @a_rustacean](https://img.shields.io/badge/-@a%EF%BC%BFrustacean-%231DA1F2?style=flat-square&logo=twitter&logoColor=ffffff)](https://twitter.com/a_rustacean)
 
-```rust
-let personality = Personality::Introvert;
-let interests = vec!["Rust", "Web Development", "Automation", "Neovim"];
-let passion = Passion::Networking;
-let coding_experience = HashMap::from([
-    ("Rust", 2),
-    ("JavaScript", 4),
-    ("React", 3),
-    ("HTML", 4),
-    ("CSS", 4)
-]);
-```
-
-## 🌟 What I Bring to the Table
+## 🌟 What I Bring to the Table -->
 
 - 💼 **Proficient in Rust**: With 2 years of hands-on experience, I excel in leveraging Rust to solve diverse challenges.
 - 💻 **Web Development**: My 4-year journey in JavaScript, React, HTML, and CSS empowers me to build robust, interactive web applications.
@@ -28,7 +15,7 @@ Let's connect and explore potential collaborations to turn innovative ideas into
 [![GitHub followers](https://img.shields.io/github/followers/a-rustacean?label=Follow&style=social)](https://github.com/a-rustacean)
 
 
-### Top contributions
+## Top contributions
 
 [![Dilshad's Top Contributions](https://github-contributor-stats.vercel.app/api?username=a-rustacean&limit=8&theme=dark&combine_all_yearly_contributions=true)](https://github-contributor-stats.vercel.app/api?username=a-rustacean&limit=20&theme=dark&combine_all_yearly_contributions=true)
 
